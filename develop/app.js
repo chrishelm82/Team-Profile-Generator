@@ -1,5 +1,5 @@
 // CONSTRUCTORS
-const Employee = require('./lib/employee');
+const Employee = require('./develop/lib/employee');
 const Manager = require('./lib/manager');
 const Engineer = require('./lib/engineer');
 const Intern = require('./lib/intern');
