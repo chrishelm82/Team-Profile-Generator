@@ -12,3 +12,5 @@ Here you will be able to create your own Team Page with employee data retrieved 
 You'll be prompted with questions including an employee name, ID, email, and title. Each title has it's own specific questions as well. After questions have been answered you'll be prompted to create your own html page with your team's data displayed.
 
 TECHNOLOGIES USED: Bootstrap Node.js Axios module Inquirer module Jest module
+
+https://chrishelm82.github.io/Team-Profile-Generator/
